@@ -1,7 +1,22 @@
 {
-  "User": {
-    "name": { "string": {} },
-    "online": { "boolean": {} },
-    "picture": { "regexp": "https://…" }
+  "User": [
+  {
+    "id": 1,
+    "name": "MCCO4rrQ3h",
+    "online": false,
+    "picture": "https://picsum.photos/seed/66/60/60"
+  },
+  {
+    "id": 2,
+    "name": "kIfSa6kPqH",
+    "online": true,
+    "picture": "https://picsum.photos/seed/80/60/60"
+  },
+  {
+    "id": 3,
+    "name": "mVF6AYhDmy",
+    "online": false,
+    "picture": "https://picsum.photos/seed/31/60/60"
   }
+  ]
 }
