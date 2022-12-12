@@ -1,5 +1,7 @@
 {
   "User": {
-    "myCustomTitle": { "string": ["abe","jabessa"] }
+    "myCustomTitle": { "string": ["abe","jabessa"] },
+     "avatar": {
+     "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"},
   }
 }
